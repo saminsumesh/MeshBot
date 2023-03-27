@@ -2,7 +2,7 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "Hello there, I am Mesh Rename Bot. Open Source at https://github.com/yash-dk/Mesh-RenameBot/tree/master. You can deploy your own."
+    START_MSG = "Hello there, This is an **Beta Version** of AI Rename Bot."
      
     CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
     
@@ -14,9 +14,9 @@ class EnTrans:
 
     RENAME_CANCEL = "Cancel this rename."
 
-    RENAMING_FILE = "Renaming the file currently hold on."
+    RENAMING_FILE = "Rename is in process."
     
-    DL_RENAMING_FILE = "Downloading the file currently hold on."
+    DL_RENAMING_FILE = "Downloading the file cache to the server."
 
     RENAME_ERRORED_REPORT = "The download was errored. Report this error."
 
